@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DPMaker</string>
+    <string-array name="dp_types">
+        <item>Black</item>
+        <item>Black Neon</item>
+        <item>Light Green Neon</item>
+        <item>Pink Neon</item>
+        <item>Sky Blue Neon</item>
+        <item>White Neon</item>
+    </string-array>
+</resources>
